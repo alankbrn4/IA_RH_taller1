@@ -7,7 +7,7 @@ Bienvenido al repositorio oficial del Taller...
 ### 💡 Biblioteca de Prompts
 - [Biblioteca de 50 Prompts](materiales/prompts/Biblioteca_50_Prompts_RH.pdf)
 
-### Cvs de Ejemplo
+### CVs de Ejemplo
 - [5 CVs de Ejemplo](materiales/cvs)
 
 ### 🧪 Ejercicios
