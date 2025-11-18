@@ -8,7 +8,7 @@ Bienvenido al repositorio oficial del Taller...
 - [Biblioteca de 50 Prompts](materiales/prompts/Biblioteca_50_Prompts_RH.pdf)
 
 ### Cvs de Ejemplo
-- [5 CVs de Ejemplo] (materiales/cvs)
+- [5 CVs de Ejemplo](materiales/cvs)
 
 ### 🧪 Ejercicios
 - [30 Puestos - Ejercicio](materiales/ejercicios/30_puestos_ejercicio.pdf)
