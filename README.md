@@ -5,7 +5,7 @@ Bienvenido al repositorio oficial del Taller...
 ## 📘 Materiales
 
 ### 💡 Biblioteca de Prompts
-- [Biblioteca de 50 Prompts](materiales/prompts/Biblioteca_50_Prompts.pdf)
+- [Biblioteca de 50 Prompts](materiales/Biblioteca_50_Prompts.pdf)
 
 ### 🧪 Ejercicios
 - [30 Puestos - Ejercicio](materiales/ejercicios/30_puestos_ejercicio.pdf)
